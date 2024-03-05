@@ -9,3 +9,61 @@ linux4.jpg
 log_1.log
 oslogs.log
 webserver.log
+commit 469630799ae5feda3ca9c1fa005fe9193984675e
+Merge: 53b5014 3d29e5c
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:59:37 2024 +0200
+
+    Merge branch 'BR_TEXT'
+
+commit 53b5014e9773999fa24ebdb364dfab8af171e9e2
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:58:19 2024 +0200
+
+    removed extracted folder
+
+commit 3d29e5c5c78eb85799a4b99c72ea3dc3e102055f
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:52:08 2024 +0200
+
+    text and log files added to Repo
+
+commit 375854970986a6ff8282029913efa883287bab65
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:50:20 2024 +0200
+
+    pictures added to Repo
+
+commit c04ab9e3e5b7947dcbd76a86dcb4cc183e5e9bf5
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:37:48 2024 +0200
+
+    added Repo and all its content
+commit 375854970986a6ff8282029913efa883287bab65
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:50:20 2024 +0200
+
+    pictures added to Repo
+
+commit c04ab9e3e5b7947dcbd76a86dcb4cc183e5e9bf5
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:37:48 2024 +0200
+
+    added Repo and all its content
+commit 3d29e5c5c78eb85799a4b99c72ea3dc3e102055f
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:52:08 2024 +0200
+
+    text and log files added to Repo
+
+commit 375854970986a6ff8282029913efa883287bab65
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:50:20 2024 +0200
+
+    pictures added to Repo
+
+commit c04ab9e3e5b7947dcbd76a86dcb4cc183e5e9bf5
+Author: Boris Gurevich <borisgur1993@gmail.com>
+Date:   Tue Mar 5 16:37:48 2024 +0200
+
+    added Repo and all its content
